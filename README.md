@@ -13,9 +13,9 @@ as for the front end  and interactivity we designed it with html, css, bootsrap,
 we used many techniques to make our website interacts with the users; such as js  and js animations , vendor , colorful related design, and related images.*
 ## Main Page
 
-![home1.png](https://github.com/Marah-Ashayer/DjangoProject/blob/main/newVersionPYTHONproject-master/Img/home1.png?raw=true)
+![home1.png](https://github.com/Marah-Ashayer/Final_Django_Project/blob/master/Img/home1.png?raw=true)
 
-![home2.png](https://github.com/Marah-Ashayer/DjangoProject/blob/main/newVersionPYTHONproject-master/Img/home2.png?raw=true)
+![home2.png](https://github.com/Marah-Ashayer/Final_Django_Project/blob/master/Img/home2.png?raw=true)
 
 The user has the ability to book a reservation,and send a review to the manager about meals and resturent in general.
 He can also get prizes randomly if he is one of the best customers, he can make online orders, also he can find a job through tab in the website.
