@@ -32,22 +32,22 @@ then see the data they filled out in the user dashboard. and contact with them v
 * Event Tab: Manage events by Accept/reject/delete/edit events
 ## Menu
 
-![menu.png](https://github.com/Marah-Ashayer/DjangoProject/blob/main/newVersionPYTHONproject-master/Img/menu.png?raw=true)
+![menu.png](https://github.com/Marah-Ashayer/Final_Django_Project/blob/master/Img/menu.png?raw=true)
 
 
 ## Admin Login-Page
 
-![admin login.png](https://github.com/Marah-Ashayer/DjangoProject/blob/main/newVersionPYTHONproject-master/Img/admin%20login.png?raw=true)
+![admin login.png](https://github.com/Marah-Ashayer/Final_Django_Project/blob/master/Img/admin%20login.png?raw=true)
 
 ## Admin Dashboard
 
-![admin page.png](https://github.com/Marah-Ashayer/DjangoProject/blob/main/newVersionPYTHONproject-master/Img/admin%20page.png?raw=true)
+![admin page.png](https://github.com/Marah-Ashayer/Final_Django_Project/blob/master/Img/admin%20page.png?raw=true)
 
 
 ---------------------------
 
-![add to menu.png](https://github.com/Marah-Ashayer/DjangoProject/blob/main/newVersionPYTHONproject-master/Img/add%20to%20menu.png?raw=true)
-![events and reviws .png](https://github.com/Marah-Ashayer/DjangoProject/blob/main/newVersionPYTHONproject-master/Img/events%20and%20reviws%20.png?raw=true)
+![add to menu.png](https://github.com/Marah-Ashayer/Final_Django_Project/blob/master/Img/add%20to%20menu.png?raw=true)
+![events and reviws .png](https://github.com/Marah-Ashayer/Final_Django_Project/blob/master/Img/events%20and%20reviws%20.png?raw=true)
 
 
 
